@@ -57,6 +57,11 @@ function readFile() {
   }
 }
 
+// siempre la verdad, vencera todo el mal
+// y si tu quieres ser un guerrero venceras
+// con todo el poder, llegaras hasta el final
+// si los suenios se van, el cosmos te guiara
+// PEGASUS FANTASYY
 
 module.exports = function report(data) {
   try {
