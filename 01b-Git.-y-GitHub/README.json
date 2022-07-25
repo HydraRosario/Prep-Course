@@ -1,6 +1,6 @@
 {
-  "lessonTitle": "Git y GitHub",
   "permalink": "/Git_y_GitHub/",
+  "lessonTitle": "Git y GitHub",
   "eleventyNavigation": {
     "key": "Git y GitHub",
     "order": 4
