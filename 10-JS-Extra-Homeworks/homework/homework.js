@@ -130,8 +130,13 @@ function buscoInterseccion(arreglo1, arreglo2){
   var nuevoArray = [];
 
   for(i = 0; i < arreglo1.length; i++) {
-    
+    for (j = 0; j < arreglo1.length; j++) {
+      if (arreglo1[i] === arreglo2[j]) {
+        nuevoArray.push(arreglo1[i]);
+      }
+    }
   }
+  return nuevoArray;
 }
 
 
